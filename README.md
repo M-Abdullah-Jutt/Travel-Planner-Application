@@ -1,7 +1,7 @@
 ## 🧠 Agentic Workflow
 
 <p align="center">
-  <img src="Workflow.png" width="700">
+  <img src="Workflow.png">
 </p>
 
 # 🌍 Travel Planner Application
